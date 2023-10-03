@@ -30,7 +30,7 @@ This repository contains a growing collection of example projects demonstrating 
     <td class="tg-0lax">Tool calling</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><a href="/chatbot_starter" target="_blank" rel="noopener noreferrer">chatbot-starter</a></td>
+    <td class="tg-0pky"><a href="/chatbot-starter" target="_blank" rel="noopener noreferrer">chatbot-starter</a></td>
     <td class="tg-0pky">✅</td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal">✅</span></td>
     <td class="tg-0pky">✅</td>
