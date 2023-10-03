@@ -13,7 +13,7 @@ This repository contains a growing collection of example projects demonstrating 
 </thead>
 <tbody>
   <tr>
-    <td></td>
+    <td style="border-top:none;border-left:none"></td>
     <td>TS SDK</td>
     <td>Chat</td>
     <td>Logging</td>
