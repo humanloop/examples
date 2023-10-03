@@ -13,7 +13,7 @@ This repository contains a growing collection of example projects demonstrating 
 </thead>
 <tbody>
   <tr>
-    <td>Project</td>
+    <td></td>
     <td>TS SDK</td>
     <td>Chat</td>
     <td>Logging</td>
