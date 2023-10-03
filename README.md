@@ -38,7 +38,7 @@ This repository contains a growing collection of example projects demonstrating 
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">asap</td>
+    <td class="tg-0pky"><a href="/asap" target="_blank" rel="noopener noreferrer">asap</a></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal">✅</span></td>
     <td class="tg-0pky">✅</td>
     <td class="tg-0pky">✅</td>
