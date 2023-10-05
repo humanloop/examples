@@ -23,7 +23,7 @@ This repository contains a growing collection of example projects demonstrating 
     <td>Tool calling</td>
   </tr>
   <tr>
-    <td><a href="/chatbot-starter" target="_blank" rel="noopener noreferrer">chatbot-starter</a></td>
+    <td><a href="https://github.com/humanloop/chatbot-starter" target="_blank" rel="noopener noreferrer">chatbot-starter</a></td>
     <td>Next.js-based chatbot interface, using Humanloop for LLM-calling and logging.</td>
     <td>✅</td>
     <td><span style="font-weight:400;font-style:normal">✅</span></td>
