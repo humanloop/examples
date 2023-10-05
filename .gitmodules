@@ -1,3 +1,6 @@
 [submodule "asap"]
 	path = asap
 	url = https://github.com/humanloop/asap
+[submodule "chatbot-starter"]
+	path = chatbot-starter
+	url = https://github.com/humanloop/chatbot-starter
